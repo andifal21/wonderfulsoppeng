@@ -1,7 +1,5 @@
-# COMPROLARAVEL8
- Website Company Profile dengan Laravel 8. CMS ini dikembangkan oleh Java Web Media (www.javawebmedia.com). Versi demo dapat diakses di website http://comprolaravel8.javawebmedia.com.
- Semoga bermanfaat untuk teman-teman yang sedang belajar.
- Untuk panduan lengkap installasi silakan buka: https://javawebmedia.com/blog/download-source-code-website-company-profile-gratis-dibangun-dengan-laravel-8/
+# Wonderfulsoppeng
+ Website wonderfulsoppeng dengan Laravel 8. yang dibangun untuk kepentingan pariwisata wilayah terkait.
  
  # Server Requirements
  Server Anda harus memenuhi kriteria ini:
@@ -17,13 +15,13 @@
 - XML PHP Extension
  
  # Cara Install di Localhost
- 1. Download ZIP/RAR dari CMS ini
- 2. Buat folder *comprolaravel8* di folder root Anda (misalnya *htdocs* jika menggunakan XAMPP)
+ 1. Download ZIP/RAR
+ 2. Buat folder *wonderfulsoppeng* di folder root Anda (misalnya *htdocs* jika menggunakan XAMPP)
  3. Extract file yang telah Anda unduh
- 4. Copy isi file tersebut ke folder *comprolaravel8* tersebut
+ 4. Copy isi file tersebut ke folder *wonderfullsoppeng* tersebut
  5. Buat database *comprolaravel8* di MySQL/PHPMyAdmin Anda
  6. Import database *comprolaravel8.sql* yang ada di folder *db*
- 7. Extract file *vendor.zip* di dalam folder *comprolaravel7* tersebut
+ 7. Extract file *vendor.zip* di dalam folder *wonderfulsoppeng* tersebut
  
 # Cara install Online di Server:
 Berikut cara install online di CPANEL:
@@ -43,9 +41,9 @@ Selanjutnya lakukan konfigurasi file *.env* Anda sesuai dengan data website dan 
 
 # Cara mengakses
  1. Buka browser
- 2. Ketik alamat http://localhost/comprolaravel8
+ 2. Ketik alamat http://localhost/wonderfulsoppeng
  
  # Halaman Administrator
- - Buka alamat: http://localhost/comprolaravel8/login
- - Username: javawebmedia
- - Password: javawebmedia
+ - Buka alamat: http://localhost/wonderfulsoppeng/login
+ - Username: admin
+ - Password: admin
